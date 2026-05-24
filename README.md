@@ -1,2 +1,2 @@
-# A Minecraft plugin licensed under AGPL v3.0 with a Linking Exception for Addons. See LICENSE for details.
+# A Minecraft jail plugin source code.
 A plugin to joil ppl
